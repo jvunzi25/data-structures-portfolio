@@ -1,4 +1,4 @@
-# Your Name
+# Joshua Vunzi
 Data Science Student  
 UNC Charlotte
 ## About Me
