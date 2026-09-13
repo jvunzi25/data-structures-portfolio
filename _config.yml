@@ -1,4 +1,12 @@
 title: Data Science Portfolio
 description: Documenting my learning in Data Structures
 theme: jekyll-theme-minimal
+author: Joshua Vunzi
 show_downloads: false
+github:
+  is_project_page: false
+social_links:
+  github: https://github.com/jvunzi25
+  linkedin: https://linkedin.com/in/joshua-vunzi
+
+
