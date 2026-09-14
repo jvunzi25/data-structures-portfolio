@@ -29,7 +29,7 @@ Click [here](../DS_prod_1.ipynb) to access my code for this project
 
 Reference and transparency:
 
-Data sets: Sportsradar. (n.d.). NBA seasonal statistics API. Sportsradar Developer Portal. https://developer.sportradar.com/basketball/reference/nba-seasonal-statistics
+Data sets: Sportsradar. (n.d.). NBA seasonal statistics API. Sportsradar Developer Portal. [https://developer.sportradar.com/basketball/reference/nba-seasonal-statistics]
 
 Sports Reference LLC. (n.d.). 1995-96 Chicago Bulls roster and stats. Basketball-Reference.com. https://www.basketball-reference.com/teams/CHI/1996.html
 
