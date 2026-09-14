@@ -1,7 +1,7 @@
 
 # Which team was statistically more dominant: the 1995–96 Bulls or the 2016–17 Warriors? 
-
-  ##   Problem Definition
+---
+## Problem Definition
 Dominance. Dominance is the state or condition of having power, authority, control, or a leading position over others. Being dominant is having power over others. Being a dominant team is outperforming opponents, achieving big results through unmatched skill and dedicating how a game unfolds rather than the opponents. In basketball being dominant is a way to become one of the best players in the league like Shaq, Jordan, Lebron, Curry and others all were one of the most dominant players in their era. Being a dominant team is a way to become the best team ever in general like the 86 celtics, 01 lakers, 96 bulls, 17 warriors and more. The 95 - 96 bulls is the most dominant basketball team ever; until in 2016/17 the warriors stepped in. Now most fans are debating which team is the most dominant? In this project I'm going to statistically find out which team is the most dominant; the 96 bulls or the 17 warriors. 
 
 ## Data Description
