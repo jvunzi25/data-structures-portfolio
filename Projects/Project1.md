@@ -29,9 +29,9 @@ Click [here](../DS_prod_1.ipynb) to access my code for this project
 
 Reference and transparency:
 
-Data sets: Sportsradar. (n.d.). NBA seasonal statistics API. Sportsradar Developer Portal. [https://developer.sportradar.com/basketball/reference/nba-seasonal-statistics]
+Data sets: Sportsradar. (n.d.). NBA seasonal statistics API. Sportsradar Developer Portal. [https://developer.sportradar.com/basketball/reference/nba-seasonal-statistics](https://developer.sportradar.com/basketball/reference/nba-seasonal-statistics)
 
-Sports Reference LLC. (n.d.). 1995-96 Chicago Bulls roster and stats. Basketball-Reference.com. https://www.basketball-reference.com/teams/CHI/1996.html
+Sports Reference LLC. (n.d.). 1995-96 Chicago Bulls roster and stats. Basketball-Reference.com. [https://www.basketball-reference.com/teams/CHI/1996.html](https://www.basketball-reference.com/teams/CHI/1996.html)
 
 Ai tool: I use copilot ai to make a bar plot for the percentages and I use google gemini to help me make a more detailed research question and to problem solve for my visuals as well. 
 
