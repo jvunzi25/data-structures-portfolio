@@ -24,7 +24,7 @@ The different eras really did a toll on this data. Between 1996 and 2017, the ev
 
 
 Code:
-Click [here](../DS_prod_1.ipynb) to access my code for this project
+Click [here](../DS_prod_1.ipynb) to access my code for this projec
 
 Reference and transparency:
 
