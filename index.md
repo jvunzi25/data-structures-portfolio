@@ -7,3 +7,8 @@ This website will document my learning and projects throughout the semester.
 ## Portfolio
 - [Blog](Blog.md)
 - [Projects](Project.md)
+
+---
+## My Info
+[Linkedin](https://www.linkedin.com/in/joshua-vunzi-9262483b6/)
+
