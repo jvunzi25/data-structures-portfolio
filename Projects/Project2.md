@@ -37,9 +37,9 @@ Code:
 Click [here](../Ds-prod-2.ipynb) to access my code for this project
 
 Reference and transparency:
-Dataset: Singh, H. (2024). Sleep & doomscrolling habits dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/harpartapsingh13/sleep-and-doomscrolling-habits-dataset/data 
+Dataset: Singh, H. (2024). Sleep & doomscrolling habits dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/harpartapsingh13/sleep-and-doomscrolling-habits-dataset/data](https://www.kaggle.com/datasets/harpartapsingh13/sleep-and-doomscrolling-habits-dataset/data) 
 
 
-National Institutes of Health. (2021, April). Good sleep for good health. NIH News in Health. https://newsinhealth.nih.gov/2021/04/good-sleep-good-health 
+National Institutes of Health. (2021, April). Good sleep for good health. NIH News in Health. [https://newsinhealth.nih.gov/2021/04/good-sleep-good-health](https://newsinhealth.nih.gov/2021/04/good-sleep-good-health) 
 
 Ai tool: i used copilot to help me with both of my models and i used google gemini to help me out with essay and to problem solve for my visuals. 
