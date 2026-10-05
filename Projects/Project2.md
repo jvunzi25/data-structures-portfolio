@@ -34,7 +34,7 @@ There's definitely biases in this dataset that I mention, like people underestim
 
 --- 
 Code:
-Click [here](../DS-prod-2.ipynb) to access my code for this project
+Click [here](../Ds-prod-2.ipynb) to access my code for this project
 
 Reference and transparency:
 Dataset: Singh, H. (2024). Sleep & doomscrolling habits dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/harpartapsingh13/sleep-and-doomscrolling-habits-dataset/data 
